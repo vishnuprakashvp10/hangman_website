@@ -56,7 +56,7 @@ const About = ({ isDarkMode }) => {
             from scratch or scaling up, we craft solutions that are built to
             perform and designed to connect. */}
           </p>
-
+{/* 
           <motion.ul
             initial={{ opacity: 0 }}
             whileInView={{ opacity: 1 }}
@@ -82,7 +82,7 @@ const About = ({ isDarkMode }) => {
                 </p>
               </motion.li>
             ))}
-          </motion.ul>
+          </motion.ul> */}
 
           <motion.h4
             initial={{ y: 20, opacity: 0 }}
@@ -90,7 +90,7 @@ const About = ({ isDarkMode }) => {
             transition={{ delay: 1.3, duration: 0.5 }}
             className="my-6 text-gray-700 font-Ovo dark:text-white/80"
           >
-            Tools I use
+            Our Tools
           </motion.h4>
 
           <motion.ul

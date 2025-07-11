@@ -98,28 +98,28 @@ export const workData = [
 export const serviceData = [
   {
     icon: assets.web_icon,
-    title: "Web design",
-    description: "Web development is the process of building, programming...",
+    title: "Reels & Video Editing",
+    description: "Our videos are crafted to grab attention, reflect your brand’s personality, and turn viewers into followers and customers.",
     link: "",
   },
   {
     icon: assets.mobile_icon,
-    title: "Mobile app",
+    title: "Website Design & Management",
     description:
-      "Mobile app development involves creating software for mobile devices...",
+      "We design and build modern, responsive websites that are visually appealing, easy to navigate, and optimized for performance.",
     link: "",
   },
   {
     icon: assets.ui_icon,
-    title: "UI/UX design",
+    title: " Instagram & Google Ad Campaigns",
     description:
-      "UI/UX design focuses on creating a seamless user experience...",
+      "We run smart, data-backed ad campaigns across Instagram and Google that reach the right audience at the right time.",
     link: "",
   },
   {
     icon: assets.graphics_icon,
-    title: "Graphics design",
-    description: "Creative design solutions to enhance visual communication...",
+    title: "SEO & Google My Business Optimization",
+    description: "From accurate info and keywords to regular updates and reviews, we help you turn searchers into foot traffic.",
     link: "",
   },
 ];
@@ -140,8 +140,8 @@ export const infoList = [
   {
     icon: assets.project_icon,
     iconDark: assets.project_icon_dark,
-    title: "Projects",
-    description: "Built more than 5 projects",
+    title: "Clients",
+    description: "More than 5 ",
   },
 ];
 
