@@ -74,25 +74,31 @@ export const assets = {
 
 export const workData = [
   {
-    title: "Frontend project",
-    description: "Web Design",
+    title: " Toss Sports",
+    description: "Reels & Video Editing",
     bgImage: "/work-1.png",
   },
   {
-    title: "Geo based app",
+    title: "Rectify Dentistry",
     description: "Mobile App",
     bgImage: "/work-2.png",
   },
   {
-    title: "Photography site",
-    description: "Web Design",
+    title: "Aaryas Oil Mills",
+    description: "Website Designs",
     bgImage: "/work-3.png",
   },
   {
-    title: "UI/UX designing",
-    description: "UI/UX Design",
+    title: " Samyuktha’s Dentistry",
+    description: "GMB and SEO",
     bgImage: "/work-4.png",
   },
+    {
+    title: " Infratech Builders",
+    description: "Google & Meta Ads",
+    bgImage: "/work-1.png",
+  },
+
 ];
 
 export const serviceData = [
