@@ -129,22 +129,22 @@ const Navbar = ({ isDarkMode, setIsDarkMode }) => {
           </li>
           <li>
             <a className="font-Ovo" onClick={closeMenu} href="#about">
-              About me
+              About Us
             </a>
           </li>
           <li>
             <a className="font-Ovo" onClick={closeMenu} href="#services">
-              Services
+              Our Services
             </a>
           </li>
           <li>
             <a className="font-Ovo" onClick={closeMenu} href="#work">
-              My Work
+              Our Works
             </a>
           </li>
           <li>
             <a className="font-Ovo" onClick={closeMenu} href="#contact">
-              Contact me
+              Contact Us
             </a>
           </li>
         </ul>
